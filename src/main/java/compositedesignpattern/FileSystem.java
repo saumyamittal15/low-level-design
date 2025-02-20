@@ -1,2 +1,6 @@
-package compositedesignpattern;public class FileSystem {
+package compositedesignpattern;
+
+public interface FileSystem {
+
+    public void ls();
 }
